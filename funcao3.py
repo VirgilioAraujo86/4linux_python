@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def somar(x,y= 10):
-    somar: somar
+    return x + y
 
 def dividir():
     pass
