@@ -7,6 +7,7 @@ class Dog():
         self.nome = nome
         self.raca = raca
         self.idade = idade
+        self.energia = 5
 
     def latir(self):
         print('latindo...')
